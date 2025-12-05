@@ -3,7 +3,7 @@
 This project demonstrates **practical SQL-based data analytics** using a structured **Bronze → Silver → Gold** data model.
 It includes real-world exploratory data analysis (EDA), advanced analytics, reporting SQL scripts, and a clear analytics roadmap.
 
-# 🎯 Project Goal
+## 🎯 Project Goal
 The goal of this project is to perform:
 
 ### ✔ Exploratory Data Analysis (EDA)
