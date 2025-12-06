@@ -89,3 +89,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi, I'm **Shaik Munna**.  
 I am developing strong skills in Data Analytics, with a focus on SQL, data cleaning, and building structured analytical datasets.  
 I am committed to improving my analytical abilities and working on projects that turn data into clear, meaningful insights.
+
+## 📌 Credits & Special Thanks
+
+I would like to sincerely thank **Baraa Khatib Salkini** ([DataWithBaraa](https://github.com/DataWithBaraa)), Senior Data Engineer (17+ years of experience, ex-Mercedes Benz)
+
+His content and mentorship have been invaluable in shaping these projects.
